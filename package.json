@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/VincentPauley/dockerized-express-app/issues"
   },
-  "homepage": "https://github.com/VincentPauley/dockerized-express-app#readme"
+  "homepage": "https://github.com/VincentPauley/dockerized-express-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
