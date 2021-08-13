@@ -1,0 +1,20 @@
+{
+  "name": "dockerized-express-app",
+  "version": "1.0.0",
+  "description": "A bare-bones repo to show expressJS server running from a Docker container.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentPauley/dockerized-express-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VincentPauley/dockerized-express-app/issues"
+  },
+  "homepage": "https://github.com/VincentPauley/dockerized-express-app#readme"
+}
